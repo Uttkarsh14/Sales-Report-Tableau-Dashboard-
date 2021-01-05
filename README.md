@@ -20,4 +20,5 @@ Sales data analysis of a generic company using Tableau
 * Creating dashboard
 
 ## Dashboard Screenshots
-https://github.com/Uttkarsh14/Tableau-Dashboard---Sales-Report/blob/main/Full_dashboard.png
+![Full_dashboard](https://user-images.githubusercontent.com/33485020/103676577-40c95080-4fa7-11eb-96c5-65afa2010635.png)
+
