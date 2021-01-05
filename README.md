@@ -10,6 +10,9 @@ Sales data analysis of a generic company using Tableau
   * Product Table
   * Market 
   
+  SQL Schema
+  ![SQL_Table_Schema](https://user-images.githubusercontent.com/33485020/103676795-85ed8280-4fa7-11eb-8565-96d8a7440bef.png)
+
 ## Process Overview:
 * Getting SQL data dump 
 * Exploring data using MySQL Workbench
