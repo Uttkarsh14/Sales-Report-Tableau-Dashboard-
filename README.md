@@ -1,7 +1,7 @@
-# Tableau-Dashboard - Sales-Report
+# Tableau-Dashboard - Sales Report
 
 ## Objective: 
-Sales data analysis of a generic company using Tableau
+Sales data analysis using Tableau
 
 ## MySQL Data Schema
   * Customer Table
